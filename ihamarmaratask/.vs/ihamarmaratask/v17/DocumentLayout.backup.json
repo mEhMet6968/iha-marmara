@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\",
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|c:\\users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|c:\\users\\mehme\\documents\\github\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|solutionrelative:ihamarmaratask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|c:\\users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\demoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\demoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|solutionrelative:ihamarmaratask\\demoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\demoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\demoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|solutionrelative:ihamarmaratask\\demoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98512E14-B34D-4D41-B617-29D937BB37A3}|ihamarmaratask\\ihamarmaratask.csproj|solutionrelative:ihamarmaratask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,34 +32,32 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "demoform.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\demoform.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\demoform.cs",
               "RelativeDocumentMoniker": "ihamarmaratask\\demoform.cs",
-              "ToolTip": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\demoform.cs",
+              "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\demoform.cs",
               "RelativeToolTip": "ihamarmaratask\\demoform.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwGIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T17:56:12.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T17:56:12.29Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "demoform.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\demoform.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\demoform.cs",
               "RelativeDocumentMoniker": "ihamarmaratask\\demoform.cs",
               "ToolTip": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\demoform.cs [Tasar\u0131m]",
-              "RelativeToolTip": "ihamarmaratask\\demoform.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ihamarmaratask\\ihamarmaratask\\demoform.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:14:37.197Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-10-27T18:14:37.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\Form1.cs",
               "RelativeDocumentMoniker": "ihamarmaratask\\Form1.cs",
-              "ToolTip": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\Form1.cs",
+              "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\Form1.cs",
               "RelativeToolTip": "ihamarmaratask\\Form1.cs",
               "ViewState": "AgIAAP0AAAAAAAAAAAAmwBEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\Form1.cs",
               "RelativeDocumentMoniker": "ihamarmaratask\\Form1.cs",
-              "ToolTip": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\Form1.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "ihamarmaratask\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T18:14:18.123Z",

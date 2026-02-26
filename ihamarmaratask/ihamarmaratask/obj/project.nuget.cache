@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdNR9vf+uNA=",
+  "dgSpecHash": "xj9cYFvnFCQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\ihamarmaratask.csproj",
+  "projectFilePath": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\ihamarmaratask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehme\\.nuget\\packages\\ajaxmin\\5.14.5506.26202\\ajaxmin.5.14.5506.26202.nupkg.sha512",
     "C:\\Users\\mehme\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

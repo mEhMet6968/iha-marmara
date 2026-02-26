@@ -1353,11 +1353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\ihamarmaratask.csproj",
+      "projectUniqueName": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\ihamarmaratask.csproj",
       "projectName": "ihamarmaratask",
-      "projectPath": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\ihamarmaratask.csproj",
+      "projectPath": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\ihamarmaratask.csproj",
       "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehme\\source\\repos\\ihamarmaratask\\ihamarmaratask\\obj\\",
+      "outputPath": "C:\\Users\\mehme\\Documents\\GitHub\\iha-marmara\\ihamarmaratask\\ihamarmaratask\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
